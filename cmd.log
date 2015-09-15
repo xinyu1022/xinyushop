@@ -1,0 +1,18 @@
+npm init
+ls
+midir app
+mkdir app
+cd app
+cd..
+touch .bowerrc
+ls
+cd app
+mkdir public
+cd public
+mkdir lib
+cd..
+bower init
+touch .gitignore
+bower install bootstrap
+bower install angular-route --save
+doskey /history >> cmd.log
