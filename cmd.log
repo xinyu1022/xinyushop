@@ -16,3 +16,4 @@ touch .gitignore
 bower install bootstrap
 bower install angular-route --save
 doskey /history >> cmd.log
+无效的宏定义。
